@@ -1,6 +1,6 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFtKfm3M1VVGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735799073722?e=1743638400&v=beta&t=GKF-pjOOavtp57Gn749_cyp599xzng2J_uTaY6bUvf4)
 
-### Hi there 👋, I am Chowdhury Mobaraque Hossain
+### Hi, I am Chowdhury Mobaraque Hossain
 #### Web Developer
 
 
